@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Time tracking system</string>
+    <string name="a1_startBtn">Старт</string>
+    <string name="a1_monday_tv">Пн</string>
+    <string name="a1_tuesday_tv">Вт</string>
+    <string name="a1_wednesday_tv">Ср</string>
+    <string name="a1_thursday_tv">Чт</string>
+    <string name="a1_friday_tv">Пт</string>
+    <string name="a1_saturday_tv">Сб</string>
+    <string name="a1_sunday_tv">Вс</string>
+    <string name="a1_zerovalue_tv">00.00 / 00.00</string>
+    <string name="a1_week_tv">За неделю</string>
+
+</resources>
